@@ -19,7 +19,7 @@ Git rebase is a command used to merge changes from one branch to another. Simply
 The Git rebase command:
 ``cap
 git rebase
-````
+``
 
 ### Git cherry picks:
 Git Cherry-Pick is a command that allows you to apply a specific commit from one branch to another. You can simply pick and choose individual committees that you want to apply to different branches.
@@ -27,4 +27,4 @@ Git Cherry-Pick is a command that allows you to apply a specific commit from one
 Git Cherry-Pick command:
 ``cap
 cherry picked child
-````
+``
